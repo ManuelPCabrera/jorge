@@ -22,3 +22,29 @@
 	"Emppleado.h"
 	"fecha.h"
 
+1693419384 source:c:\users\jorge\documents\github\jorge1\emppleado.cpp
+	"Emppleado.h"
+	<string.h>
+	<iostream>
+	"fecha.h"
+
+1693419384 c:\users\jorge\documents\github\jorge1\emppleado.h
+	"fecha.h"
+	<ctime>
+
+1693419910 c:\users\jorge\documents\github\jorge1\fecha.h
+
+1693420959 source:c:\users\jorge\documents\github\jorge1\fecha.cpp
+	"fecha.h"
+	<ctime>
+	<iostream>
+
+1693421073 source:c:\users\jorge\documents\github\jorge1\main.cpp
+	<iostream>
+	<ctime>
+	"Emppleado.h"
+	"fecha.h"
+	<string>
+	<map>
+	<sstream>
+
